@@ -4,6 +4,7 @@ Labworks for 'System Software' discipline
 
 Instruments:
 * Microsoft Visual Studio 2012
+* JetBrains PyCharm Community Edition 2016.2.3
 
 Contents:
 * LW1: Memory allocator, part 1
